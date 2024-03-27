@@ -1,4 +1,4 @@
-package modul_2_202357201028;
+package modul_2_202357201001;
 import javax.swing.JOptionPane;
 
 public class bantu_budi {

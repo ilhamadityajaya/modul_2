@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package modul_2_202357201028;
+package modul_2_202357201001;
 
 /**
  *
  * @author ASUS
  */
-public class Modul_2_202357201028 {
+public class Modul_2_202357201001 {
 
     /**
      * @param args the command line arguments
